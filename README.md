@@ -11,4 +11,4 @@ To take it a step further, the Smart Document Understanding feature of Watson Di
 
 Node-Red Dashboard link after deploying : https://node-red-vyteq.eu-gb.mybluemix.net/ui/
 
-Youtube video link is : *will be updated ASAP*
+Youtube video link is : https://youtu.be/TOXkCr9HmGY
